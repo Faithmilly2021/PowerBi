@@ -29,7 +29,7 @@ Contributions to this project are welcome! If you have suggestions for new featu
 
 
 ## Acknowledgements
-Special thanks to [Forage] for providing guidance and requirements for the dashboard design.
+Special thanks to [[Forage](https://www.theforage.com/)] for providing guidance and requirements for the dashboard design.
 
-![63973_1_1715079084851](https://github.com/Faithmilly2021/PowerBi/assets/88321504/0443f299-9879-4be0-afc6-1e0e95ccddfb)
+
 
